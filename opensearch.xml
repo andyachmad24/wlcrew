@@ -8,5 +8,5 @@
   <Url type="application/atom+xml" template="https://wlcrew.blogspot.co.id/search?q={searchTerms}&amp;feed=atom"/>
   <Url type="application/rss+xml" template="https://wlcrew.blogspot.co.id/search?q={searchTerms}&amp;feed=rss2"/>
   <Url type="text/html" template="https://wlcrew.blogspot.co.id/search?q={searchTerms}" method="GET" />
-  <Url type="application/opensearchdescription+xml" rel="self" template="URL FILE" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/andyachmad24/wlcrew.git"/>
 </OpenSearchDescription>
